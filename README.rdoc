@@ -1,0 +1,3 @@
+== Welcome to StrapOnRails
+
+StrapOnRails is a simple twitter bootstrap template for Ruby on Rails
